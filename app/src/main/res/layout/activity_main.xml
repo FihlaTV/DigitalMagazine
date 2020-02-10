@@ -182,13 +182,34 @@
                         <ImageView
                             android:layout_width="140dp"
                             android:layout_height="140dp"
-                            android:src="@drawable/oscars"/>
+                            android:src="@drawable/in"/>
 
                         <TextView
                             android:padding="7dp"
                             android:layout_width="259dp"
                             android:layout_height="140dp"
-                            android:text="Oscars 2020 full winners list: Joaquin Phoenix, Renee Zellweger, Parasite win big"
+                            android:text="60 interview questions on Machine Learning"
+                            android:textSize="22dp"
+                            android:textColor="@android:color/black"/>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:background="@drawable/effect3d">
+
+                        <ImageView
+                            android:layout_width="140dp"
+                            android:layout_height="140dp"
+                            android:src="@drawable/auntra"/>
+
+                        <TextView
+                            android:padding="7dp"
+                            android:layout_width="259dp"
+                            android:layout_height="140dp"
+                            android:text="Heaviest rain in decades brings Australia drought, fire relief"
                             android:textSize="22dp"
                             android:textColor="@android:color/black"/>
 
